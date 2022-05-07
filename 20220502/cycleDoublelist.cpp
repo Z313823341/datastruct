@@ -17,7 +17,7 @@
  }dlnode,*dlinklist;
  
  /**
-  * 双链表建表操作
+  * 循环双链表建表操作
   **/
   
   dlinklist createDlinklist(dlinklist &dl,int a[],int length){
